@@ -1,9 +1,9 @@
 const cacheName = "amplify design GmbH-Medientisch_Merianstich_Unity-1.0";
 const contentToCache = [
-    "Build/TestBuild_Merianstich.loader.js",
-    "Build/TestBuild_Merianstich.framework.js",
-    "Build/TestBuild_Merianstich.data",
-    "Build/TestBuild_Merianstich.wasm",
+    "Build/merianstich_demo.loader.js",
+    "Build/merianstich_demo.framework.js",
+    "Build/merianstich_demo.data",
+    "Build/merianstich_demo.wasm",
     "TemplateData/style.css"
 
 ];
